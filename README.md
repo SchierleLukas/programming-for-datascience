@@ -1,5 +1,5 @@
 # programming-for-datascience
-This repository is used for the exam in the module "T3M40509 Programming for Data Science"
+This repository is used for the exam in the module "T3M40509 Programming for Data Science". It is also available on [Github](https://github.com/SchierleLukas/programming-for-datascience/tree/main)
 
 ## Quick Guide Development:
 - Install required packages via conda
