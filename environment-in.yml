@@ -1,0 +1,8 @@
+name: pfd-env
+dependencies:
+  - python=3.11.5
+  - jupyter
+  - matplotlib
+  - pandas
+  - numpy
+  - nbconvert
